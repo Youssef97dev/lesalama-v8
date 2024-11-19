@@ -12,7 +12,7 @@ const Footer = () => {
             alt="Logo"
             width={240}
             height={240}
-            className="mr-2 pb-6"
+            className="mr-2 pb-6 w-44  lg:w-full lg:h-full"
           />
         </Link>
       </div>
@@ -26,7 +26,7 @@ const Footer = () => {
             40 Rue des Banques, Marrakech 40000, Maroc
           </span>
         </div>
-        <div className="w-full flex gap-5 justify-center items-center">
+        <div className="w-full flex gap-5 justify-center items-center pb-3">
           <Link
             href="https://www.instagram.com/lesalamamarrakech/"
             target="_blank"

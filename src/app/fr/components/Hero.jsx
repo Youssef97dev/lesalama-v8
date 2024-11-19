@@ -20,18 +20,18 @@ const Hero = () => {
         className="absolute top-0 left-0 w-full h-full object-cover"
       />
       {/* Hero Content */}
-      <div className="hidden absolute text-white w-full lg:flex justify-end items-center pr-60 py-5 gap-3 z-50">
+      <div className="absolute text-white w-full flex justify-end items-center pr-5 lg:pr-60 py-5 gap-3 z-50">
         <Link
           href="https://www.instagram.com/lesalamamarrakech/"
           target="_blank"
-          className="cursor-pointer"
+          className="cursor-pointer hidden lg:block"
         >
           <BsInstagram size={18} />
         </Link>
         <Link
           href="https://www.facebook.com/lesalamamarrakech/"
           target="_blank"
-          className="cursor-pointer"
+          className="cursor-pointer hidden lg:block"
         >
           <BsFacebook size={18} />
         </Link>
@@ -45,7 +45,7 @@ const Hero = () => {
             <IoMdArrowDropdown size={18} />
           </button>
           {isDropdownOpen && (
-            <ul className="absolute top-8 bg-white mt-2 py-2 w-32 shadow-lg flex justify-center items-center">
+            <ul className="absolute top-8 right-2 bg-white mt-2 py-2 w-32 shadow-lg flex justify-center items-center">
               <li className="px-4 py-2 hover:bg-primary_3 rounded-lg cursor-pointer">
                 <Link href="/">
                   <img src="/assets/images/english.png" className="w-7 h-7" />
@@ -76,20 +76,14 @@ const Hero = () => {
           >
             <BsFacebook size={20} />
           </Link>
-          <Link href="/">
-            <img src="/assets/images/english.png" className="w-7 h-7" />
-          </Link>
-          <Link href="#">
-            <img src="/assets/images/france.png" className="w-7 h-7" />
-          </Link>
         </div>
         <Link href="/">
           <Image
-            src="/assets/images/logo-salama-white-hum.png"
+            src="/assets/images/logo-salama-humberger-brown.png"
             alt="le salama 2"
             width={200}
             height={200}
-            className="cursor-pointer w-48  h-48 lg:w-full lg:h-full"
+            className="cursor-pointer w-40  h-40 lg:w-full lg:h-full"
           />
         </Link>
       </div>
