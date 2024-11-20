@@ -13,7 +13,7 @@ const Hero = () => {
     <div className="relative h-screen w-full ">
       {/* Image Background */}
       <Image
-        src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/salama_20-min_m92cvb"
+        src="https://res.cloudinary.com/dz7wroord/image/upload/c_crop,g_south,h_2000,w_2994/Salama/yakitd32v7jwvcvm45s2"
         alt="le salama main"
         width={1000}
         height={1000}
