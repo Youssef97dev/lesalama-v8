@@ -67,14 +67,14 @@ const Hero = () => {
             target="_blank"
             className="cursor-pointer"
           >
-            <BsInstagram size={20} />
+            <BsInstagram size={23} />
           </Link>
           <Link
             href="https://www.facebook.com/lesalamamarrakech/"
             target="_blank"
             className="cursor-pointer"
           >
-            <BsFacebook size={20} />
+            <BsFacebook size={23} />
           </Link>
         </div>
         <Link href="/">
@@ -83,7 +83,7 @@ const Hero = () => {
             alt="le salama 2"
             width={200}
             height={200}
-            className="cursor-pointer w-40 h-40 lg:w-full lg:h-full"
+            className="cursor-pointer w-44 h-44 lg:w-full lg:h-full"
           />
         </Link>
       </div>
