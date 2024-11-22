@@ -7,7 +7,7 @@ const Mapbox = () => {
       <Link
         href="https://maps.app.goo.gl/Zq999WxGBS6JFBYc8"
         target="_blank"
-        className="w-1/2"
+        className="w-full lg:w-1/2"
       >
         <Image
           src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/Salama/qkl3mjzi6gbwzvfdt057"
