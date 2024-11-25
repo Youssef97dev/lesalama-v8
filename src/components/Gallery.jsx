@@ -6,7 +6,7 @@ const images = [
   "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-4_dk656w",
   "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-2_kcekby",
   "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-1_bavl73",
-  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama7_be895j",
+  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/sssss_kpsscz",
   "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-5_ntsfxv",
   // Add paths to your images here
 ];
