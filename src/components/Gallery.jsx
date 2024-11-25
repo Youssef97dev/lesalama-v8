@@ -2,12 +2,12 @@ import Image from "next/image";
 import Link from "next/link";
 
 const images = [
-  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/iht5iucpauq4binptfn1",
-  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama455_fynstm",
-  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama2_eqqvyn",
+  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-3_l2zn1q",
+  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-4_dk656w",
+  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-2_kcekby",
+  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-1_bavl73",
   "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama7_be895j",
-  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/fj3o2usyohqiowhaldis",
-  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/menu-gallery-3_vefmip",
+  "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_1280,w_855/v1/Salama/salama-sah-5_ntsfxv",
   // Add paths to your images here
 ];
 
